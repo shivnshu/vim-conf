@@ -2,5 +2,6 @@
 !.gitignore
 !init.vim
 !vimrc.vim
+!README.md
 !vimfiles/
 !vimfiles/*
