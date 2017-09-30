@@ -5,3 +5,4 @@ colorscheme jellybeans
 " Other nice themes - molokai peaksea
 
 set cursorline
+set number relativenumber
