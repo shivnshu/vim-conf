@@ -1,6 +1,3 @@
-" Ctrl+l to toggle syntastic
-nnoremap <C-l> :SyntasticToggleMode<CR>
-
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
