@@ -13,6 +13,10 @@ set incsearch              " Incremental search
 set autoindent             " Auto indentation
 set smartindent            " Smart indentation
 
+" Copy to and from system clipboard with y and p
+" Only in neovim or vim with +clipboard
+set clipboard=unnamedplus
+
 " Status bar fonts
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
